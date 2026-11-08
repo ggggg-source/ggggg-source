@@ -14,6 +14,6 @@ Python · aiogram 3 · REST API (Binance, TonAPI) · HMAC-подпись зап�
 ## 📬 Связь
 
 - **Telegram: [@btwwqa](https://t.me/btwwqa)** — пиши сюда, отвечаю быстро
-- Email: matreale22@gmail.com
+- Email: whywhywhy399@gmail.com
 
 Открыт к фриланс-заказам по Telegram-ботам 📩
